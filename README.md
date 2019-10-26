@@ -89,7 +89,7 @@ we unfortunatelly cannot directly distribute ***Foggy Synscapes***.
 
 ### Citations
 
-If you use our work, please cite our [publication][publication]:
+If you use our work, please cite our [publication][publication] and the [Synscapes White Paper][synscapes_paper]:
 ```
 @inproceedings{FoggySynscapes,
   author    = {Hahner, Martin and Dai, Dengxin and Sakaridis, Christos and Zaech, Jan-Nico and Van Gool, Luc},
@@ -97,8 +97,15 @@ If you use our work, please cite our [publication][publication]:
   booktitle = {Proceedings of the 22nd IEEE International Conference on Intelligent Transportation Systems}, 
   series    = {IEEE ITSC 2019},
   year      = {2019},
-  month     = {Oct},
-  address   = {Auckland, New Zealand},
+  month     = {Oct}
+}
+
+@article{Synscapes,
+    author    = {Magnus Wrenninge and Jonas Unger},
+    title     = {Synscapes: A Photorealistic Synthetic Dataset for Street Scene Parsing},
+    url       = {http://arxiv.org/abs/1810.08705},
+    year      = {2018},
+    month     = {Oct}
 }
 ```
 
@@ -125,3 +132,4 @@ https://www.trace.ethz.ch/foggy_synscapes
 [synscapes]: <https://7dlabs.com/synscapes-overview>
 [synscapes_mail]: <mailto:synscapes@7dlabs.com>
 [synscapes_license]: <https://7dlabs.com/synscapes-license>
+[synscapes_paper]: <https://7dlabs.com/synscapes-white-paper>
