@@ -10,7 +10,7 @@ This is the source code we used in our ITSC 2019 paper titled
 [**Semantic Understanding of Foggy Scenes with Purely Synthetic Data**][website],  
 to create ***Foggy Synscapes***, a foggy version of the original [*Synscapes*][synscapes] dataset.  
 
-<img src="https://github.com/MartinHahner88/FoggySynscapes/blob/master/data/readme/preview.gif" alt="foggy_images" width="300"/>  
+<img src="https://github.com/MartinHahner88/FoggySynscapes/blob/main/data/readme/preview.gif" alt="foggy_images" width="300"/>  
 
 The pipeline computes transmittance maps,  
 which can be combined with the original clear-weather image  
@@ -19,7 +19,7 @@ to obtain foggy versions of the clear-weather image.
 
 ### Pipeline Overview
 
-<img src="https://github.com/MartinHahner88/FoggySynscapes/blob/master/data/readme/pipeline.png" alt="pipeline"/>
+<img src="https://github.com/MartinHahner88/FoggySynscapes/blob/main/data/readme/pipeline.png" alt="pipeline"/>
 
 
 ### Getting Started
