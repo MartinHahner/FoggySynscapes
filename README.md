@@ -90,7 +90,7 @@ we unfortunatelly cannot directly distribute ***Foggy Synscapes***.
 ### Citations
 
 If you use our work, please cite our [publication][publication] and the [Synscapes White Paper][synscapes_paper]:
-```
+```bibtex
 @inproceedings{FoggySynscapes,
   author    = {Hahner, Martin and Dai, Dengxin and Sakaridis, Christos and Zaech, Jan-Nico and Van Gool, Luc},
   title     = {Semantic Understanding of Foggy Scenes with Purely Synthetic Data},
