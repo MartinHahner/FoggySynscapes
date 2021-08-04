@@ -94,10 +94,8 @@ If you use our work, please cite our [publication][publication] and the [Synscap
 @inproceedings{FoggySynscapes,
   author    = {Hahner, Martin and Dai, Dengxin and Sakaridis, Christos and Zaech, Jan-Nico and Van Gool, Luc},
   title     = {Semantic Understanding of Foggy Scenes with Purely Synthetic Data},
-  booktitle = {Proceedings of the 22nd IEEE International Conference on Intelligent Transportation Systems}, 
-  series    = {IEEE ITSC 2019},
+  booktitle = {IEEE International Conference on Intelligent Transportation Systems (ITSC)}, 
   year      = {2019},
-  month     = {Oct}
 }
 
 @article{Synscapes,
@@ -105,7 +103,6 @@ If you use our work, please cite our [publication][publication] and the [Synscap
     title     = {Synscapes: A Photorealistic Synthetic Dataset for Street Scene Parsing},
     url       = {http://arxiv.org/abs/1810.08705},
     year      = {2018},
-    month     = {Oct}
 }
 ```
 
