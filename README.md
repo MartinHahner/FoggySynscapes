@@ -1,5 +1,7 @@
 ## Semantic Understanding of Foggy Scenes with Purely Synthetic Data
 
+[![arXiv](https://img.shields.io/badge/arXiv-1910.03997-00ff00.svg)](https://arxiv.org/abs/1910.03997)
+
 Forked from [github.com/sakaridis/fog_simulation-SFSU_synthetic][foggy_cityscapes_code].  
 Adapted by [Martin Hahner][profile] at the Computer Vision Lab of ETH Zurich.
 
