@@ -1,0 +1,5 @@
+# https://github.com/actions/stale
+# https://github.com/marketplace/actions/close-stale-issues
+
+- name: Close Stale Issues
+  uses: actions/stale@v4.1.0
