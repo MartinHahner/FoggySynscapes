@@ -2,7 +2,7 @@
 # https://github.com/marketplace/actions/close-stale-issues
 # https://docs.github.com/en/actions/managing-issues-and-pull-requests/closing-inactive-issues
 
-name: Close inactive issues
+name: close stale issues
 on:
   schedule:
     - cron: "30 1 * * *"
